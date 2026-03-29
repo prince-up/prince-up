@@ -1,7 +1,57 @@
-👋 Hello, I'm  Prince, a dedicated MERN stack developer with a passion for building robust and scalable web applications. With solid expertise in MongoDB, Express.js, React.js, and Node.js, I thrive on creating seamless user experiences and solving complex technical challenges.
+<!-- Animated header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D8FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Prince+Yadav+👋;Full+Stack+Developer;Always+learning+new+things+🚀" alt="Typing SVG" />
+</p>
 
-🌐 Beyond the MERN stack, I bring in-depth knowledge of database management systems including MySQL and PostgreSQL, ensuring efficient data handling and optimization. My proficiency extends to C++ for algorithmic problem-solving and I have solved over 250+ problems on LeetCode, honing my skills in data structures and algorithms.
+<!-- Animated hello GIF -->
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Hello(1).gif" width="250" alt="hello gif" />
+</p>
 
-🛠️ Leveraging Git for version control, I am adept at collaborating with teams to deliver high-quality software solutions. I thrive in dynamic environments where innovation and continuous learning are encouraged.
+---
 
-🎓 Currently seeking opportunities to contribute my technical skills and creativity to a forward-thinking organization. Let's connect to explore how I can add value to your
+### 🚀 About Me
+
+- 💻 I’m an aspiring **full‑stack** developer  
+- 🌱 Currently learning **[your current tech here]**  
+- 🎯 Goal: build clean, performant web apps  
+- 📍 Based in Punjab, India  
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,git,github,linux" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prince-up&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince-up&theme=radical" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-up&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prince-up&theme=radical&row=1&column=6" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/prince-up">GitHub</a> ·
+  <a href="https://www.linkedin.com">LinkedIn</a> ·
+  <a href="https://your-portfolio-link.com">Portfolio</a>
+</p>
