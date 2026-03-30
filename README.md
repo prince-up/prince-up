@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hey, I'm Prince Yadav 👋</h1>
-<h3 align="center">Java Backend & Emerging Full‑Stack Developer from India</h3>
+<h3 align="center">Java Backend & full stack developer</h3>
 
 <p align="center">
   <a href="https://github.com/prince-up">GitHub</a> •
