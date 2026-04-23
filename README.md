@@ -49,9 +49,7 @@ GitHub: https://github.com/prince-up/job-automation
 🔹 SysArena – System monitoring & management platform for tracking performance, resources, and system insights with a clean dashboard.  
 GitHub: https://github.com/prince-up/SysArena    
 
-🔗 *In projects ke repos ko profile pe “Pinned” kar do, upar highlight rahenge.*  
 
----
 
 ### 🎯 What I’m Focusing On
 
