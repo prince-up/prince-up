@@ -1,35 +1,12 @@
 Devops  & Full Stack Developer
 
 <h1 align="center">Hey, I'm Prince Yadav 👋</h1>
-<h3 align="center">Java Backend & Full‑Stack Developer from India</h3>
-### 🚀 About Me
+<h3 align="center">Devops & Full‑Stack Developer from India</h3>
 
-- 👨‍🎓 B.Tech 3rd‑year student, building real‑world projects instead of just completing assignments.  
-- ☕ Backend‑focused **Java developer** working with Spring Boot, REST APIs, and SQL databases.  
-- 💻 Growing into a **full‑stack developer**, combining strong backend with modern frontend tools.  
-- 🌱 Currently learning **Spring Security, JWT auth, advanced Java, and clean architecture**.  
-- 🎯 Actively looking for **Java/Spring Boot backend or full‑stack internships & remote roles**.  
-- 📍 Based in Punjab, India | 🌐 Portfolio: [princeyadv-cyan.vercel.app](https://princeyadav-cyan.vercel.app/)  
-
----
-
-### 🧰 Tech Stack
-
-**Languages:** Java · JavaScript · TypeScript (learning)  
-
-**Backend:** Spring Boot · Spring MVC · Spring Data JPA · REST APIs · Hibernate  
-
-**Frontend:** HTML5 · CSS3 · JavaScript · React (basics)  
-
-**Database & Tools:** MySQL · PostgreSQL · Git · GitHub · Maven  
-
-**Concepts:** OOP · DSA · Design Patterns (learning) · Clean Code  
-
-devops  and cloud : AWS, DOCKER, CICD , PIPELINE, KUBERNETS, GIT ,  
+# 💫 About Me:
+Devops  & Full Stack Developer<br><br><h1 align="center">Hey, I'm Prince Yadav 👋</h1><br><h3 align="center">Java Backend & Full‑Stack Developer from India</h3><br><br><p align="center"><br>  <a href="https://github.com/prince-up">GitHub</a> •<br>  <a href="https://www.linkedin.com/">LinkedIn</a> •<br>  <a href="https://princeyadv-cyan.vercel.app">Portfolio</a><br></p><br><br>---<br><br>### 🚀 About Me<br><br>- 👨‍🎓 B.Tech 3rd‑year student, building real‑world projects instead of just completing assignments.  <br>- ☕ Backend‑focused **Java developer** working with Spring Boot, REST APIs, and SQL databases.  <br>- 💻 Growing into a **full‑stack developer**, combining strong backend with modern frontend tools.  <br>- 🌱 Currently learning **Spring Security, JWT auth, advanced Java, and clean architecture**.  <br>- 🎯 Actively looking for **Java/Spring Boot backend or full‑stack internships & remote roles**.  <br>- 📍 Based in Punjab, India | 🌐 Portfolio: [princeyadv-cyan.vercel.app](https://princeyadav-cyan.vercel.app/)  <br><br>---<br><br>### 🧰 Tech Stack<br><br>**Languages:** Java · JavaScript · TypeScript (learning)  <br><br>**Backend:** Spring Boot · Spring MVC · Spring Data JPA · REST APIs · Hibernate  <br><br>**Frontend:** HTML5 · CSS3 · JavaScript · React (basics)  <br><br>**Database & Tools:** MySQL · PostgreSQL · Git · GitHub · Maven  <br><br>**Concepts:** OOP · DSA · Design Patterns (learning) · Clean Code  <br><br>devops  and cloud : AWS, DOCKER, CICD , PIPELINE, KUBERNETS, GIT ,  <br><br>### 🚧 Featured Projects<br> <br><br>🔹 PrinceExt – Browser extension to improve productivity for students and developers.  <br><br>🔹 EducationAdvisor – Web app to explore courses/colleges with a structured backend and clean UI.  <br><br>🔹 Job Automation – Automated job application system that streamlines applying to multiple roles using scripts/APIs, improving efficiency and reducing manual effort.  <br>GitHub: https://github.com/prince-up/job-automation  <br><br>🔹 SysArena – System monitoring & management platform for tracking performance, resources, and system insights with a clean dashboard.  <br>GitHub: https://github.com/prince-up/SysArena    <br><br><br><br>### 🎯 What I’m Focusing On<br><br>- Writing **production‑style REST APIs** with validation, error handling, and logging.  <br>- Implementing **JWT authentication & role‑based access** with Spring Security.  <br>- Improving **problem solving** skills with regular DSA practice.  <br>- Learning basics of **system design** and scalable backend structure.  <br><br><br><br><p align="center"><br>  <img src="https://readme-stats-github.pages.dev/api?username=prince-up&show_icons=true&theme=shadow" alt="Prince's GitHub Stats" /><br></p><br><br><p align="center"><br>  <img src="https://readme-stats-github.pages.dev/api/top-langs/?username=prince-up&layout=compact&theme=shadow" alt="Top Languages" /><br></p><br><br>---<br><br>### 🏆 Trophies<br><br><p align="center"><br>  <img src="https://github-profile-trophy.vercel.app/?username=prince-up&theme=algolia&margin-w=10&margin-h=10" alt="GitHub Trophies" /><br></p><br><br>--- <br><br>### 🌐 Connect With Me<br><br><br>- 🐙 GitHub: [github.com/prince-up](https://github.com/prince-up)  <br>- 💼 LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/)<br>- 🌐 Portfolio: [princeyadv-cyan.vercel.app](https://princeyadav-cyan.vercel.app/)  <br>
 
 ### 🚧 Featured Projects
- 
-
 🔹 PrinceExt – Browser extension to improve productivity for students and developers.  
 
 🔹 EducationAdvisor – Web app to explore courses/colleges with a structured backend and clean UI.  
@@ -40,28 +17,12 @@ GitHub: https://github.com/prince-up/job-automation
 🔹 SysArena – System monitoring & management platform for tracking performance, resources, and system insights with a clean dashboard.  
 GitHub: https://github.com/prince-up/SysArena    
 
-
-
 ### 🎯 What I’m Focusing On
 
 - Writing **production‑style REST APIs** with validation, error handling, and logging.  
 - Implementing **JWT authentication & role‑based access** with Spring Security.  
 - Improving **problem solving** skills with regular DSA practice.  
 - Learning basics of **system design** and scalable backend structure.  
-
-
-
-<p align="center">
-  <img src="https://readme-stats-github.pages.dev/api?username=prince-up&show_icons=true&theme=shadow" alt="Prince's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://readme-stats-github.pages.dev/api/top-langs/?username=prince-up&layout=compact&theme=shadow" alt="Top Languages" />
-</p>
-
----
-# 💫 About Me:
-Devops  & Full Stack Developer<br><br><h1 align="center">Hey, I'm Prince Yadav 👋</h1><br><h3 align="center">Java Backend & Full‑Stack Developer from India</h3><br><br><p align="center"><br>  <a href="https://github.com/prince-up">GitHub</a> •<br>  <a href="https://www.linkedin.com/">LinkedIn</a> •<br>  <a href="https://princeyadv-cyan.vercel.app">Portfolio</a><br></p><br><br>---<br><br>### 🚀 About Me<br><br>- 👨‍🎓 B.Tech 3rd‑year student, building real‑world projects instead of just completing assignments.  <br>- ☕ Backend‑focused **Java developer** working with Spring Boot, REST APIs, and SQL databases.  <br>- 💻 Growing into a **full‑stack developer**, combining strong backend with modern frontend tools.  <br>- 🌱 Currently learning **Spring Security, JWT auth, advanced Java, and clean architecture**.  <br>- 🎯 Actively looking for **Java/Spring Boot backend or full‑stack internships & remote roles**.  <br>- 📍 Based in Punjab, India | 🌐 Portfolio: [princeyadv-cyan.vercel.app](https://princeyadav-cyan.vercel.app/)  <br><br>---<br><br>### 🧰 Tech Stack<br><br>**Languages:** Java · JavaScript · TypeScript (learning)  <br><br>**Backend:** Spring Boot · Spring MVC · Spring Data JPA · REST APIs · Hibernate  <br><br>**Frontend:** HTML5 · CSS3 · JavaScript · React (basics)  <br><br>**Database & Tools:** MySQL · PostgreSQL · Git · GitHub · Maven  <br><br>**Concepts:** OOP · DSA · Design Patterns (learning) · Clean Code  <br><br>devops  and cloud : AWS, DOCKER, CICD , PIPELINE, KUBERNETS, GIT ,  <br><br>### 🚧 Featured Projects<br> <br><br>🔹 PrinceExt – Browser extension to improve productivity for students and developers.  <br><br>🔹 EducationAdvisor – Web app to explore courses/colleges with a structured backend and clean UI.  <br><br>🔹 Job Automation – Automated job application system that streamlines applying to multiple roles using scripts/APIs, improving efficiency and reducing manual effort.  <br>GitHub: https://github.com/prince-up/job-automation  <br><br>🔹 SysArena – System monitoring & management platform for tracking performance, resources, and system insights with a clean dashboard.  <br>GitHub: https://github.com/prince-up/SysArena    <br><br><br><br>### 🎯 What I’m Focusing On<br><br>- Writing **production‑style REST APIs** with validation, error handling, and logging.  <br>- Implementing **JWT authentication & role‑based access** with Spring Security.  <br>- Improving **problem solving** skills with regular DSA practice.  <br>- Learning basics of **system design** and scalable backend structure.  <br><br><br><br><p align="center"><br>  <img src="https://readme-stats-github.pages.dev/api?username=prince-up&show_icons=true&theme=shadow" alt="Prince's GitHub Stats" /><br></p><br><br><p align="center"><br>  <img src="https://readme-stats-github.pages.dev/api/top-langs/?username=prince-up&layout=compact&theme=shadow" alt="Top Languages" /><br></p><br><br>---<br><br>### 🏆 Trophies<br><br><p align="center"><br>  <img src="https://github-profile-trophy.vercel.app/?username=prince-up&theme=algolia&margin-w=10&margin-h=10" alt="GitHub Trophies" /><br></p><br><br>--- <br><br>### 🌐 Connect With Me<br><br><br>- 🐙 GitHub: [github.com/prince-up](https://github.com/prince-up)  <br>- 💼 LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/)<br>- 🌐 Portfolio: [princeyadv-cyan.vercel.app](https://princeyadav-cyan.vercel.app/)  <br>
 
 
 ## 🌐 Socials:
