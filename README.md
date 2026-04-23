@@ -1,6 +1,6 @@
 Devops  & Full Stack Developer
 
-<h1 align="center">Hey, I'm Prince Yadav 👋</h1>
+<h1 align="center">Hey, I'm Prince  👋</h1>
 <h3 align="center">Devops & Full‑Stack Developer from India</h3>
 
 
