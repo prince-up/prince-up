@@ -18,7 +18,7 @@ Devops  & Full Stack Developer
 - 💻 Growing into a **full‑stack developer**, combining strong backend with modern frontend tools.  
 - 🌱 Currently learning **Spring Security, JWT auth, advanced Java, and clean architecture**.  
 - 🎯 Actively looking for **Java/Spring Boot backend or full‑stack internships & remote roles**.  
-- 📍 Based in Punjab, India | 🌐 Portfolio: [princeyadv-cyan.vercel.app](https://princeyadv-cyan.vercel.app/)  
+- 📍 Based in Punjab, India | 🌐 Portfolio: [princeyadv-cyan.vercel.app](https://princeyadav-cyan.vercel.app/)  
 
 ---
 
@@ -34,13 +34,20 @@ Devops  & Full Stack Developer
 
 **Concepts:** OOP · DSA · Design Patterns (learning) · Clean Code  
 
----
+devops  and cloud : AWS, DOCKER, CICD , PIPELINE, KUBERNETS, GIT ,  
 
 ### 🚧 Featured Projects
+ 
 
-- **PrinceExt** – Browser extension to improve productivity for students and developers.  
-- **EducationAdvisor** – Web app to explore courses/colleges with a structured backend and clean UI.  
-- **[Your Best Java/Spring API Project]** – RESTful API using Spring Boot + MySQL with layered architecture.  
+🔹 PrinceExt – Browser extension to improve productivity for students and developers.  
+
+🔹 EducationAdvisor – Web app to explore courses/colleges with a structured backend and clean UI.  
+
+🔹 Job Automation – Automated job application system that streamlines applying to multiple roles using scripts/APIs, improving efficiency and reducing manual effort.  
+GitHub: https://github.com/prince-up/job-automation  
+
+🔹 SysArena – System monitoring & management platform for tracking performance, resources, and system insights with a clean dashboard.  
+GitHub: https://github.com/prince-up/SysArena    
 
 🔗 *In projects ke repos ko profile pe “Pinned” kar do, upar highlight rahenge.*  
 
@@ -78,5 +85,5 @@ Devops  & Full Stack Developer
 ### 🌐 Connect With Me
 
 - 🐙 GitHub: [github.com/prince-up](https://github.com/prince-up)  
-- 💼 LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/)  
-- 🌐 Portfolio: [princeyadv-cyan.vercel.app](https://princeyadv-cyan.vercel.app/)  
+- 💼 LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/)
+- 🌐 Portfolio: [princeyadv-cyan.vercel.app](https://princeyadav-cyan.vercel.app/)  
