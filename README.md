@@ -1,4 +1,4 @@
-![Java Backend & Full Stack Developer](assets/fullstack-banner.png)
+Devops  & Full Stack Developer
 
 <h1 align="center">Hey, I'm Prince Yadav 👋</h1>
 <h3 align="center">Java Backend & Full‑Stack Developer from India</h3>
