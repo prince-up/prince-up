@@ -1,4 +1,4 @@
-Agentic ai developer && open source contributor at webpack.js.org
+Agentic Ai developer & open source contributor at webpack.js.org
 
 
 <h1 align="center">Hey, I'm Prince  👋</h1>  
