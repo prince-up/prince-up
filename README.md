@@ -15,7 +15,6 @@ Agentic Ai developer & open source contributor at webpack.js.org
 
 ### 🌐 Connect With Me
 
-
 - 🐙 GitHub: [github.com/prince-up](https://github.com/prince-up)  
 - 💼 LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/)
 - 🌐 Portfolio: [princeyadv-cyan.vercel.app](https://prince-yadav.lovable.app/)  
