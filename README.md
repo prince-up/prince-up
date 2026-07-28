@@ -1,4 +1,4 @@
-<h1 align="center"> Prince Yadav</h1>  
+<h1 align="center"> Prince </h1>  
 <p align="center">
   📍 India | 🤖 Agentic AI Developer & DevOps Enthusiast | 🚀 Open Source Contributor at webpack.js.org
 </p>
