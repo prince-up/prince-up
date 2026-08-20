@@ -1,51 +1,86 @@
-<h1 align="center"> Prince </h1>  
-<p align="center">
-  📍 India | 🤖 Agentic AI Developer & DevOps Enthusiast | 🚀 Open Source Contributor at webpack.js.org
-</p>
+<div align="center">
 
----
+# Prince Yadav
 
-### 🌐 Connect With Me
-- 🐙 GitHub: [github.com/prince-up](https://github.com/prince-up)  
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/)  
-- 🌐 Portfolio: [prince-yadav.lovable.app](https://prince-yadav.lovable.app/)  
+Agentic AI Developer · Full-Stack Engineer · Founder, Anazk AI
 
----
+[Portfolio](https://prince-yadav.lovable.app/) · [GitHub](https://github.com/prince-up) · [LinkedIn](https://www.linkedin.com/in/prince-yadav-4t/) · [Anazk AI](https://anazk.online)
 
-### 🚀 Key Projects & Contributions
+</div>
 
-#### 📦 Open Source & Core Dev
-* **webpack.js.org** - Actively contributing to documentation and core optimization workflows.
-* **PrinceExt** - Modern Chrome extension built to optimize local browser workflows, fully containerized and Git-managed.
+<br>
 
-#### 🤖 Agentic AI & Web Ecosystems
-* **Career & Education Advisor** - Smart India Hackathon (SIH) project. An AI-driven ecosystem featuring adaptive recommendation agents.
-* **Next.js Freelancer Portfolio** - Performance-focused modern web architecture built using Next.js, Three.js, and Framer Motion.
+## About
 
----
+Final-year B.Tech CSE student building agentic AI products and full-stack applications. Currently building **Anazk AI**, a real-time AI interview assistant, alongside a set of AI-agent and developer-tooling projects. Hackathon winner (3x), open source contributor to the webpack ecosystem, and 300+ DSA problems solved.
 
-### 💻 Technical Ecosystem
+<br>
 
-#### Cloud & DevOps Infrastructure
-> **Tools:** Linux (Ubuntu), Docker, Kubernetes, Jenkins, AWS, Nginx, Apache Maven  
-> **Observability & Data:** Redis, MongoDB, MySQL, Grafana  
+## Building — Anazk AI
 
-#### Frontend & Agent Runtimes
-> **Languages:** TypeScript, JavaScript, Java, Python  
-> **Frameworks:** Next.js, React.js, Node.js, Express.js, FastAPI, Web3.js  
-> **Deployment:** Vercel, Netlify, Firebase, Render  
+A real-time AI interview assistant that acts as an "invisible wingman" during virtual interviews, giving live, context-aware answers as the interview happens.
 
----
+**[anazk.online](https://anazk.online)**
 
-### 🏆 Recognition & Achievements
-* **Hackathon Champion:** Winner at **Web-ka-Thon**, **Hack2.0 Verse**, and **Tech Blitz**.
-* **Problem Solver:** Solved over 200+ conceptual challenges on LeetCode.
-* **Certified Architect:** Oracle Cloud AI Foundations Certified & Full-Stack Credential from CipherSchools.
+<br>
 
----
+## Projects
 
-### 📊 GitHub Analytics
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=prince-up&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=prince-up&theme=shadow_green&hide_border=false" width="48%" />
-</p>
+**HireMind AI** — Agentic recruitment platform that runs resume-aware technical and behavioral interviews.
+`Next.js` `FastAPI` `LangChain` `CrewAI` `Qdrant` `Gemini`
+[Repository](https://github.com/prince-up/HireMind-AI)
+
+**Cold Mail Agent** — Outreach automation that extracts HR contacts, personalizes messages, and sends them through Gmail.
+`FastAPI` `CrewAI` `Next.js` `TypeScript` `Gmail API`
+[Repository](https://github.com/prince-up/cold-mailagent)
+
+**MarketMind AI** — AI investment research agent built for an internship shortlist assignment, extended well beyond the original scope.
+`LangGraph.js` `Next.js` `Groq`
+[Repository](https://github.com/prince-up/MarketMind-AI)
+
+**PrinceExt** — Chrome extension providing a centralized dashboard for frequently used sites and tools. 19+ stars.
+`JavaScript` `Chrome Extensions` `Docker`
+[Repository](https://github.com/prince-up/PrinceExt)
+
+<br>
+
+## Stack
+
+**Languages** — TypeScript, JavaScript, Python, Java
+
+**Frontend / Backend** — React, Next.js, Node.js, Express, FastAPI
+
+**AI / ML** — LLMs, RAG, Embeddings, Vector Search, Prompt Engineering, LangChain, CrewAI, Qdrant, Gemini
+
+**Infrastructure** — Docker, Kubernetes, AWS, Nginx, Vercel, Firebase, Render
+
+**Data** — PostgreSQL, MongoDB, MySQL, Redis
+
+<br>
+
+## Achievements
+
+- Winner — Web-ka-Thon, Hack2.0 Verse, Tech Blitz
+- Open source contributor — webpack.js.org
+- 300+ DSA problems solved
+- Oracle Cloud Infrastructure AI Foundations certified
+- Full-stack credential — CipherSchools
+
+<br>
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prince-up&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=prince-up&theme=default&hide_border=true" width="49%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+**[prince-yadav.lovable.app](https://prince-yadav.lovable.app/)**
+
+</div>
