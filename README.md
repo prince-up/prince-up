@@ -1,32 +1,27 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="prince-up's GitHub profile" src="dark_mode.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prince-up/prince-up/main/dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prince-up/prince-up/main/light_mode.svg" />
+  <img src="https://raw.githubusercontent.com/prince-up/prince-up/main/light_mode.svg" alt="Prince Yadav GitHub profile card" width="900" />
 </picture>
 
 <div align="center">
 
 # Prince Yadav
 
-Agentic AI Developer · Full-Stack Engineer · Founder, Anazk AI
+**Agentic AI Developer · Full-Stack Engineer**
 
-[Portfolio](https://prince-yadav.lovable.app/) · [GitHub](https://github.com/prince-up) · [LinkedIn](https://www.linkedin.com/in/prince-yadav-4t/) · [Anazk AI](https://anazk.online)
+[Portfolio](https://prince-yadav.lovable.app/) · [LinkedIn](https://www.linkedin.com/in/prince-yadav-4t/) · [Anazk AI](https://anazk.online)
 
 </div>
 
-<br>
-
 ## About
 
-I'm Prince, a final-year CS student and Agentic AI Developer. I build real-world AI products — from LLM pipelines to full production systems. Currently building Anazk AI, a real-time AI interview assistant, alongside projects like HireMind AI (agentic recruitment) and a Cold Mail outreach agent. I like taking ideas from concept to shipped product, across the stack — Python, FastAPI, Next.js, and everything AI agents need to actually work. 300+ DSA problems solved · 3x hackathon winner.
+I build practical AI products and full-stack systems. I am currently building **Anazk AI**, a real-time interview assistant, and exploring agentic recruitment and outreach automation.
 
-<br>
+## Building
 
-## Building — Anazk AI
+**[Anazk AI](https://anazk.online)** — A real-time AI interview assistant with live, context-aware support during virtual interviews.
 
-A real-time AI interview assistant that acts as an "invisible wingman" during virtual interviews, giving live, context-aware answers as the interview happens.
-
-**[anazk.online](https://anazk.online)**
 
 <br>
 
@@ -74,28 +69,7 @@ A real-time AI interview assistant that acts as an "invisible wingman" during vi
 
 <br>
 
-## GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prince-up&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-up&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=prince-up&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prince-up&theme=tokyo-night&hide_border=true" />
-
-</div>
-
-<br>
 
 <div align="center">
 
