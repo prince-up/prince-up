@@ -9,7 +9,7 @@
 
 # Prince Yadav
 
-**Agentic AI Developer · Full-Stack Engineer**
+Agentic AI Developer · Full-Stack Engineer
 
 [Portfolio](https://prince-yadav.lovable.app/) · [LinkedIn](https://www.linkedin.com/in/prince-yadav-4t/) · [Anazk AI](https://anazk.online)
 
