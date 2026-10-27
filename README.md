@@ -44,4 +44,4 @@ I'm a founder building AI products that solve real problems for Indian colleges 
 [Portfolio](https://prince-yadav.lovable.app/) · [LinkedIn](https://www.linkedin.com/in/prince-yadav-4t/) · [Anazk AI](https://anazk.online/) · [CodeNCommit](https://codencommit.online)
 
 *Building in public. Always open to feedback, pilots, and conversations about hiring tech.*
-![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-yadav&show_icons=true&theme=tokyonight)
+![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-up&show_icons=true&theme=tokyonight)
