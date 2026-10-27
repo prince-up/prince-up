@@ -7,41 +7,36 @@
 
 <div align="center">
 
-# Hi, I'm Prince Yadav 👋
+### 🛠️ Tech Stack
 
-### Founder @ Anazk Technologies · Building CodeNCommit
+**Languages**
 
-I'm a founder building AI products that solve real problems for Indian colleges and students — not demos, shipped products with real users.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 
-🚀 **Currently building [CodeNCommit](https://codencommit.online)** — a cheat-proof coding exam platform + AI interviewer for colleges. Lockdown exam browser, AI webcam proctoring, round-wise AI interviews with real-time grading, and a recruiter portal that shows *verified* skills instead of resume claims.
+**Full-Stack**
 
-🏢 Founder of **[Anazk Technologies Pvt. Ltd.](https://anazk.online/)** — on a mission to make skill verification and hiring honest, affordable, and AI-proof.
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
----
+**AI / ML**
 
-### 🛠️ What I ship with
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLMs%20%2F%20RAG-412991?style=flat&logo=openai&logoColor=white)
 
-**Languages** — TypeScript · JavaScript · Python · Java
-**Full-Stack** — React · Next.js · Node.js · Express · FastAPI
-**AI / ML** — LLMs · RAG · Embeddings · Vector Search · LangChain · CrewAI · Qdrant · Gemini
-**Infra** — Docker · Kubernetes · AWS · Vercel · Render · Nginx
-**Data** — PostgreSQL · MongoDB · MySQL · Redis
+**Infra & Data**
 
----
-
-### 🏆 Track record
-
-- 🥇 Winner — Web-ka-Thon · Hack2.0 Verse · Tech Blitz
-- 🌐 Open-source contributor — webpack.js.org
-- 💻 300+ DSA problems solved
-- 📜 Oracle Cloud Infrastructure AI Foundations certified
-- 🚢 Built & deployed CodeNCommit end-to-end — frontend, backend, AI, infra — mostly solo
-
----
-
-### 📫 Let's connect
-
-[Portfolio](https://prince-yadav.lovable.app/) · [LinkedIn](https://www.linkedin.com/in/prince-yadav-4t/) · [Anazk AI](https://anazk.online/) · [CodeNCommit](https://codencommit.online)
-
-*Building in public. Always open to feedback, pilots, and conversations about hiring tech.*
-![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-up&show_icons=true&theme=tokyonight)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
